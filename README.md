@@ -1,6 +1,6 @@
 About this file
 
-Suggest Edits This file contains real-time IoT sensor data collected from industrial machines for predictive maintenance and anomaly detection in smart manufacturing systems. The dataset includes sensor readings, machine status, failure types, and a target column (maintenance_required), which indicates whether a machine requires maintenance.
+This file contains real-time IoT sensor data collected from industrial machines for predictive maintenance and anomaly detection in smart manufacturing systems. The dataset includes sensor readings, machine status, failure types, and a target column (maintenance_required), which indicates whether a machine requires maintenance.
 
 File Contents:
 
